@@ -36,6 +36,7 @@ if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
 fi
 
 source "$HOME/.dotfiles/shell/aliases.sh"
+source "$HOME/.dotfiles/shell/functions.sh"
 
 # set a fancy prompt (non-color, unless we know we "want" color)
 case "$TERM" in
