@@ -102,6 +102,5 @@ export PATH=$PATH:/usr/local/go/bin
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
 
-source "$HOME/.dotfiles/shell/aliases.sh"
-source "$HOME/.dotfiles/shell/functions.sh"
+source "$HOME/.dotfiles/shell/init.sh"
 
