@@ -1,8 +1,8 @@
 # Alias
 alias cdh="cd $HOME"
 alias cdl="cd $HOME/leanmind"
-alias ll="ls -l"
-alias la="ls -la"
+alias ll="exa -l"
+alias la="exa -la"
 alias cl="clear"
 
 ## Git
