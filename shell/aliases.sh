@@ -7,6 +7,7 @@ alias cl="clear"
 
 ## Git
 alias gs="git status -sb"
+alias gaa="git add . && gs"
 alias gc="git commit -m"
 alias gps="git push"
 alias gpl="git pull"
