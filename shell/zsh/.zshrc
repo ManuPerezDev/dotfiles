@@ -102,23 +102,7 @@ export PATH=$PATH:/usr/local/go/bin
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
 
-# Alias
-alias cdh="cd $HOME"
-alias cdl="cd $HOME/leanmind"
-alias ll="ls -l"
-alias la="ls -la"
-alias cl="clear"
-
-## Git
-alias gs="git status -sb"
-alias gc="git commit -m"
-alias gps="git push"
-alias gpl="git pull"
-
-## Docker
-alias dec="~/.scripts/enter_container.sh"
-alias dkc="~/.scripts/kill_container.sh"
-alias dcc="~/.scripts/create_container.sh"
+source "$HOME/.dotfiles/shell/aliases.sh"
 
 # Functions
 _dir_to_move() {
