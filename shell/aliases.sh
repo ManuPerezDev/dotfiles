@@ -13,6 +13,6 @@ alias gps="git push"
 alias gpl="git pull"
 
 ## Docker
-alias dec="~/.scripts/enter_container.sh"
-alias dkc="~/.scripts/kill_container.sh"
-alias dcc="~/.scripts/create_container.sh"
+alias dec="~/.dotfiles/scripts/enter_container.sh"
+alias dkc="~/.dotfiles/scripts/kill_container.sh"
+alias dcc="~/.dotfiles/scripts/create_container.sh"

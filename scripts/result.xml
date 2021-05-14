@@ -1,0 +1,21 @@
+<concepto>
+        <fecdesde>2019-02-12</fecdesde>
+        <fechasta>2019-04-10</fechasta>
+        <unidad>1.9405</unidad>
+        <precunidad>0.580000</precunidad>
+        <importe>1.13</importe>
+        <codconcepto>0017</codconcepto>
+        <desconcepto>Importe FacturaciÃ³n de alquileres</desconcepto>
+        <impuestoconcepto>S</impuestoconcepto>
+        <porcentajeimpcto>21.00</porcentajeimpcto>
+        <umconcepto>01</umconcepto>
+      </concepto><concepto>
+        <fecdesde>2019-02-12</fecdesde>
+        <fechasta>2019-04-10</fechasta>
+        <unidad>1743.0000</unidad>
+        <precunidad>0.022413</precunidad>
+        <importe>39.07</importe>
+        <codconcepto>0017</codconcepto>
+        <desconcepto>TÃ©rmino variable peaje</desconcepto>
+        <impuestoconcepto>N</impuestoconcepto>
+      </concepto>
