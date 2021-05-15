@@ -4,6 +4,8 @@ alias cdl="cd $HOME/leanmind"
 alias ll="exa -l"
 alias la="exa -la"
 alias cl="clear"
+alias kp="~/.dotfiles/scripts/kill_process.sh"
+alias lf="ls -p | grep -v / | fzf --preview 'cat {}'"
 
 ## Git
 alias gs="git status -sb"

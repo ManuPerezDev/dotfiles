@@ -17,3 +17,8 @@ zle -N _reverse_search
 bindkey '^r' _reverse_search
 
 setopt hist_ignore_all_dups # no duplicate
+
+_move() {
+  dirtomove=$(ls -d */ | fzf | awk '{print $NF}')
+  cd "$dirtomove"
+}

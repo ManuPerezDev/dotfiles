@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-ps aux | fzf | awk '{print $2}' | xargs kill -9
+ps aux | fzf | awk '{print $2}' | xargs sudo kill -9
