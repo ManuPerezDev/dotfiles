@@ -1,9 +1,0 @@
-[user]
-	email = perezregaladomanuel@gmail.com
-	name = Manuel Pérez Regalado
-[core]
-	autocrlf = false
-
-[includeIf "gitdir:~/leanmind/"]
-      path = 
-.gitconfig-leanmind
