@@ -6,6 +6,7 @@ alias la="exa -la"
 alias cl="clear"
 alias kp="~/.dotfiles/scripts/kill_process.sh"
 alias lf="ls -p | grep -v / | fzf --preview 'cat {}'"
+alias gitmoji="/home/manuel/.npm-global/bin/gitmoji"
 
 ## Git
 alias gs="git status -sb"
