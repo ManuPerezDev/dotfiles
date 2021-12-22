@@ -14,6 +14,8 @@ alias gaa="git add . && gs"
 alias gc="git commit -m"
 alias gps="git push"
 alias gpl="git pull"
+alias gck="git checkout"
+alias gckm="git checkout master"
 
 ## Docker
 alias dec="~/.dotfiles/scripts/docker/enter_container.sh"
