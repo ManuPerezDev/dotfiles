@@ -16,3 +16,4 @@ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/the
 
 #set zsh as default prompt
 chsh -s $(which zsh)
+
